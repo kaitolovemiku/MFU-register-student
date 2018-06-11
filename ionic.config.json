@@ -1,0 +1,8 @@
+{
+  "name": "MFU-register-student4",
+  "app_id": "60401e1b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
